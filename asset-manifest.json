@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Cursor-Reset-Site-Test/static/css/main.e6c13ad2.css",
-    "main.js": "/Cursor-Reset-Site-Test/static/js/main.aad7075f.js",
+    "main.js": "/Cursor-Reset-Site-Test/static/js/main.2d2b56ee.js",
     "static/js/453.02487a78.chunk.js": "/Cursor-Reset-Site-Test/static/js/453.02487a78.chunk.js",
     "static/media/RoslindaleDisplay-Ultra.woff": "/Cursor-Reset-Site-Test/static/media/RoslindaleDisplay-Ultra.b0bbc1e8c626ec4c06ad.woff",
     "static/media/RoslindaleDisplay-Ultra.woff2": "/Cursor-Reset-Site-Test/static/media/RoslindaleDisplay-Ultra.65d404e04b2514ac9c3e.woff2",
     "index.html": "/Cursor-Reset-Site-Test/index.html",
     "main.e6c13ad2.css.map": "/Cursor-Reset-Site-Test/static/css/main.e6c13ad2.css.map",
-    "main.aad7075f.js.map": "/Cursor-Reset-Site-Test/static/js/main.aad7075f.js.map",
+    "main.2d2b56ee.js.map": "/Cursor-Reset-Site-Test/static/js/main.2d2b56ee.js.map",
     "453.02487a78.chunk.js.map": "/Cursor-Reset-Site-Test/static/js/453.02487a78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.aad7075f.js"
+    "static/js/main.2d2b56ee.js"
   ]
 }
